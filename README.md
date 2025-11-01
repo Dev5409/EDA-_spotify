@@ -3,7 +3,7 @@
 ## 📘 Project Overview
 This project presents an **Exploratory Data Analysis (EDA)** of Spotify music track data. The goal was to uncover patterns and insights related to track popularity, musical attributes, artist and album trends, and correlations among features.
 
-Prepared by **Debmalya Das**.
+Prepared by **Dev Kumar Pal**.
 
 ---
 
